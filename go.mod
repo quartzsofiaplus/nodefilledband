@@ -1,3 +1,3 @@
-module net_proxy_4ee7db
+module net_proxy_a51252
 
 go 1.19
